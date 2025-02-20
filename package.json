@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "homepage": "https://abdelrahman-samy-2023.github.io/iphone-15",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
